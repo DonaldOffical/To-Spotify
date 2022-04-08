@@ -27,3 +27,24 @@ like this:
 
 ![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/%E7%BD%91%E6%98%93%E4%BA%91%E6%AD%8C%E5%8D%95.png)
 
+cpoy the number after "id="
+```
+id="......."
+```
+Congratulations! Now you get your playist id!
+
+The second step is use this id to get the name list of this playlist. 
+Now you can visit yueyericardo's website. (Thanks again!)
+```
+https://yyrcd.com/2018/11/14/n2s-zh/
+```
+Paste your playlist id which you got from the first step here. 
+like this:
+
+![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/API%201.png)
+
+After this step, you will get your all songs' names and singers of your playlist. 
+Copy them!
+
+![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/API2.png)
+
