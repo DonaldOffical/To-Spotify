@@ -39,7 +39,7 @@ Now you can visit yueyericardo's website. (Thanks again!)
 https://yyrcd.com/2018/11/14/n2s-zh/
 ```
 Paste your playlist id which you got from the first step here. 
-like this:
+Like this:
 
 ![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/API%201.png)
 
@@ -48,7 +48,7 @@ Copy them!
 
 ![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/API2.png)
 
-The third step is click this website, and login with Spotify.
+The third step is clicking this website, and login with Spotify.
 ```
 https://www.spotlistr.com/search/textbox
 ```
