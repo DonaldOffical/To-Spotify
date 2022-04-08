@@ -48,3 +48,17 @@ Copy them!
 
 ![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/API2.png)
 
+The third step is click this website, and login with Spotify.
+```
+https://www.spotlistr.com/search/textbox
+```
+You can paste the songs' name list what you got from the second step here, after login. 
+Like this:
+
+![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/SPO1.png)
+
+Click the "Search" button, and wait for the result. 
+
+![image](https://github.com/DonaldOffical/To-Spotify/blob/main/images/SP2.png)
+
+
